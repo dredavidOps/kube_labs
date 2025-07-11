@@ -2,8 +2,9 @@ apiVersion: v1
 kind: Pod
 metadata:
   labels:
-    run: nginx
+    run: nginx   
     method: fromcode
+    another: label
   name: nginx-yaml
 spec:
   containers:
