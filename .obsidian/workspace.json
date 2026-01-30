@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "af1d24d971ac0593",
+        "id": "1ea5603294279df9",
         "type": "tabs",
         "children": [
           {
-            "id": "ef2c039dcaaefc36",
+            "id": "7315299c662f974e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Commands Look Up.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Commands Look Up"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Commands Look Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Commands Look Up"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Commands Look Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Commands Look Up"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Commands Look Up.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Commands Look Up"
             }
           }
         ]
@@ -176,6 +183,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "ef2c039dcaaefc36",
-  "lastOpenFiles": []
+  "active": "7315299c662f974e",
+  "lastOpenFiles": [
+    "Kubernetes Terms and Concepts.md",
+    "Untitled.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Commands Look Up.md"
+  ]
 }
